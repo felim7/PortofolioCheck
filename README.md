@@ -9,15 +9,23 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 # Data Analyst
 | Project Link | Completion | Tools | Description |
 |--------------|-----------|-------|-------------|
+| Marketing Analytics | Ongoing | SQL, PowerBI | Exploratory Analysis and Interactive Dashboard |
 | [COVID-19 Indonesia](https://github.com/username/covid-project) | Ongoing | SQL, Tableau | Exploratory analysis and interactive dashboard |
+| Sales Analytics | Ongoing | SQL, Power BI | Exploratory Analysis and Interactive Dashboard |
+| Airflight Delay Cause | Completed | Excel, Tableau | Data Cleaning and interactive dashboard |
+
 
 # Low Code Tools
 | Project Link | Area of Analysis | Project Description |
 |--------------|------------------|---------------------|
+|
+|
+|
 
 # Industrial Engineer
 | Project Link | Area | Project Description | Libraries |
 |--------------|------|---------------------|-----------|
+|
 
 # 📚 SQL Resources
 Looking to learn SQL for data analysis but don't know where to start?
