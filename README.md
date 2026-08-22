@@ -2,27 +2,22 @@
 Welcome to my data portfolio! Here, I document a summary of my projects in the data field.
 
 📚 Table of Contents
-- Data Engineering
-- SQL
-- Python
-- Tableau
+- Data Analyst
+- Low Code Tools
+- Industrial Engineer
 
-# Data Engineering
+# Data Analyst
 | Project Link | Completion | Tools | Description |
 |--------------|-----------|-------|-------------|
 | [COVID-19 Indonesia](https://github.com/username/covid-project) | Ongoing | SQL, Tableau | Exploratory analysis and interactive dashboard |
 
-# SQL
+# Low Code Tools
 | Project Link | Area of Analysis | Project Description |
 |--------------|------------------|---------------------|
 
-# Python
+# Industrial Engineer
 | Project Link | Area | Project Description | Libraries |
 |--------------|------|---------------------|-----------|
-
-# Tableau
-| Project Link | Project Description | Dashboard Link |
-|--------------|---------------------|----------------|
 
 # 📚 SQL Resources
 Looking to learn SQL for data analysis but don't know where to start?
