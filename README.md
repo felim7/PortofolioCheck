@@ -18,9 +18,10 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 # Low Code Tools
 | Project Link | Area of Analysis | Project Description |
 |--------------|------------------|---------------------|
-|
-|
-|
+| POS System | Operations | help operations |
+| CRUD for Sales Operations | Operations | help operations |
+| Bulk Emails Automation | Productivity | faster actions
+| Mini ERP for School System | Operations | help operations |
 
 # Industrial Engineer
 | Project Link | Area | Project Description | Libraries |
